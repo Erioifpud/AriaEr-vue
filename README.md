@@ -2,6 +2,8 @@
 
 > An electron-vue project
 
+![preview](./pics/preview.png)
+
 #### Build Setup
 
 ``` bash
